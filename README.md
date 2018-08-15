@@ -1,6 +1,6 @@
 # python_learning
 some notes of python
-### 1.first.py is some examples on the book:<AUTOMATE THE BORING STUFF WITH PYTHON>;
+### 1.first.py is some examples on the book:[AUTOMATE THE BORING STUFF WITH PYTHON];
 ### 2.maply.py is a test of connect internet;
 ### 3.multiplication_table.py is ‘九九乘法表’ by python;
 ### 4.collatz.py is ‘考拉兹猜想’;
