@@ -2,6 +2,8 @@ def addToInventory(inventory,addedItems):
 	count = {}
 	for item in dragonLoot:
 		count.setdefault(item,0)
+		#setdefault(key,default_value)方法,
+		#如果key不存在就使用default_value,并加入字典里
 		count[item] += 1
 		# print(count)
 
